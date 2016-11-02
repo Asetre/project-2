@@ -1,0 +1,53 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #fcf8e8;
+}
+
+h1 {
+	margin: 50px 0 10px 50px;
+}
+
+.job-title {
+	margin: 0 0 50px 50px;
+}
+
+.skills {
+	margin-left: 50px;
+	margin-bottom: 50px;
+}
+.skills ul {
+	margin-left: 50px;
+}
+
+.work-history {
+	margin-left: 50px;
+}
+
+.work-history h2 {
+	margin-bottom: 20px;
+}
+
+.work-entry {
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+
+address {
+	margin-left: 50px;
+}
+
+address img {
+	float: left;
+}
+
+address h3, h4 {
+	float: left;
+}
+
+#email {
+	margin-left: -102px;
+}
